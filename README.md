@@ -11,7 +11,7 @@ Esse projeto visa simular a documentação de requisitos para implementação de
 ## Conteúdos do Repositório
 
 - Arquivo .pdf "Sistematização Engenharia e Projeto de Software - MedCEUB": contém a documentação de requisitos para criação do aplicativo mobile.
-- Arquivo .make "Modelo de App Consulta": contém o protótipo criado no Figma.
+- Arquivo .make "Modelo de App Consulta": contém o protótipo criado no Figma. (obs: caso não opte por visualiza-lo acima, realizar o download apenas será possível abrir o arquivo no site do Figma)
 - Arquivo .pdf "Diagrama de Caso de Uso MedCEUB": contém o diagrama que ilustra as funcionalidades do aplicativo mobile.
 
 
